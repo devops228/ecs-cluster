@@ -1,25 +1,25 @@
 # ECS Cluster
 
-## Creating an ECS cluster with Terraform
+### Creating an ECS cluster with Terraform
 
 The script will create the following service in aws
 
- ### VPC
+ #### VPC
 
  #### Security Group
 
-IAM Roles
+#### IAM Roles
 
-ECS cluster
+#### ECS cluster
 
-ALB 
+#### ALB 
 
-Autoscaling
+#### Autoscaling
 
-Install Nginx
+#### Install Nginx
 
 
-# Commands 
+##### Commands 
 
 terraform init
 
